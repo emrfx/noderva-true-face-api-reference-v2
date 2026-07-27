@@ -1,0 +1,15 @@
+{
+  "schema": "noderva.trueface.policy/v1",
+  "id": "editorial-campaign-2026",
+  "name": "Editorial Campaign 2026",
+  "threshold": 94,
+  "max_geometry_drift_percent": 2,
+  "max_smoothing_percent": 12,
+  "minimum_texture_score": 88,
+  "rules": {
+    "lock_bone_geometry": true,
+    "preserve_natural_asymmetry": true,
+    "allow_tone_change": true,
+    "require_manual_review_on_failure": true
+  }
+}

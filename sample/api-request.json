@@ -1,0 +1,10 @@
+{
+  "analysis_level": "comprehensive",
+  "model": "v2.4.1",
+  "images": [
+    { "role": "original", "content": "base64://source" },
+    { "role": "processed", "operation": "style_transfer", "content": "base64://variant-a" },
+    { "role": "processed", "operation": "compression", "content": "base64://variant-b" }
+  ],
+  "return": ["landmarks", "structure", "profile", "quality", "audit_manifest"]
+}
