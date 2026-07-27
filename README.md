@@ -1,3 +1,7 @@
+<div style="font-size: 48px; font-weight: bold; text-align: center; padding: 20px; border: 3px solid #ff4444; background: #fff0f0; margin-bottom: 30px; color: #cc0000;">
+  🚧 BU PROJE DEMO SÜRÜMÜDÜR 🚧
+</div>
+
 # NODERVA True-Face API — Reference UI V2
 
 Bu sürüm, NODERVA Software ana sitesindeki `true-face-api.png` ürün görseli esas alınarak baştan oluşturuldu. Arayüz yalnızca statik bir ekran görüntüsü değildir; dosya yükleme, analiz çalıştırma, skor üretme, istek geçmişi, navigasyon ve ayrıntı pencereleri çalışır.
